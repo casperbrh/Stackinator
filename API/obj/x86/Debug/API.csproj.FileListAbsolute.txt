@@ -1,0 +1,11 @@
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/bin/Debug/API.exe
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/bin/Debug/API.pdb
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/bin/Debug/Newtonsoft.Json.dll
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/bin/Debug/Newtonsoft.Json.xml
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/obj/x86/Debug/API.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/obj/x86/Debug/API.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/obj/x86/Debug/API.csproj.CopyComplete
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/obj/x86/Debug/API.exe
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/obj/x86/Debug/API.pdb
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/bin/Debug/Model.exe
+/Users/hunorvadasz-perhat/Projects/Assignment_3/API/bin/Debug/Model.pdb

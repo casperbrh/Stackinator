@@ -1,0 +1,8 @@
+/Users/hunorvadasz-perhat/Projects/Assignment_3/Model/obj/x86/Debug/Model.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/Assignment_3/Model/bin/Debug/Model.exe
+/Users/hunorvadasz-perhat/Projects/Assignment_3/Model/bin/Debug/Model.pdb
+/Users/hunorvadasz-perhat/Projects/Assignment_3/Model/obj/x86/Debug/Model.exe
+/Users/hunorvadasz-perhat/Projects/Assignment_3/Model/obj/x86/Debug/Model.pdb
+/Users/hunorvadasz-perhat/Projects/Assignment_3/Model/bin/Debug/Newtonsoft.Json.dll
+/Users/hunorvadasz-perhat/Projects/Assignment_3/Model/bin/Debug/Newtonsoft.Json.xml
+/Users/hunorvadasz-perhat/Projects/Assignment_3/Model/obj/x86/Debug/Model.csproj.CopyComplete

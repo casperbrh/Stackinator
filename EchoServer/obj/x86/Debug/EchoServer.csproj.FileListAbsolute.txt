@@ -1,0 +1,13 @@
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/bin/Debug/EchoServer.exe
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/bin/Debug/EchoServer.pdb
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/obj/x86/Debug/EchoServer.csproj.CoreCompileInputs.cache
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/obj/x86/Debug/EchoServer.exe
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/obj/x86/Debug/EchoServer.pdb
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/obj/x86/Debug/EchoServer.csprojAssemblyReference.cache
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/bin/Debug/Model.exe
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/bin/Debug/Newtonsoft.Json.dll
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/bin/Debug/Model.pdb
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/bin/Debug/Newtonsoft.Json.xml
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/obj/x86/Debug/EchoServer.csproj.CopyComplete
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/bin/Debug/API.exe
+/Users/hunorvadasz-perhat/Projects/Assignment_3/EchoServer/bin/Debug/API.pdb

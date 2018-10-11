@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoServer", "EchoServer\EchoServer.csproj", "{7EB684EB-2727-457E-A8A2-6267B814D709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{9497D9E6-5429-495D-9962-A76D6F276EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{F6E7C398-D2A7-4700-AF36-3065F7CC4832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB684EB-2727-457E-A8A2-6267B814D709}.Debug|x86.ActiveCfg = Debug|x86
+		{7EB684EB-2727-457E-A8A2-6267B814D709}.Debug|x86.Build.0 = Debug|x86
+		{7EB684EB-2727-457E-A8A2-6267B814D709}.Release|x86.ActiveCfg = Release|x86
+		{7EB684EB-2727-457E-A8A2-6267B814D709}.Release|x86.Build.0 = Release|x86
+		{9497D9E6-5429-495D-9962-A76D6F276EF5}.Debug|x86.ActiveCfg = Debug|x86
+		{9497D9E6-5429-495D-9962-A76D6F276EF5}.Debug|x86.Build.0 = Debug|x86
+		{9497D9E6-5429-495D-9962-A76D6F276EF5}.Release|x86.ActiveCfg = Release|x86
+		{9497D9E6-5429-495D-9962-A76D6F276EF5}.Release|x86.Build.0 = Release|x86
+		{F6E7C398-D2A7-4700-AF36-3065F7CC4832}.Debug|x86.ActiveCfg = Debug|x86
+		{F6E7C398-D2A7-4700-AF36-3065F7CC4832}.Debug|x86.Build.0 = Debug|x86
+		{F6E7C398-D2A7-4700-AF36-3065F7CC4832}.Release|x86.ActiveCfg = Release|x86
+		{F6E7C398-D2A7-4700-AF36-3065F7CC4832}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
